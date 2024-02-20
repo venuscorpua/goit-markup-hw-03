@@ -288,13 +288,13 @@ img {
 
 .portfolio-list-item {
   width: calc((100% - 48px) / 3);
+  row-gap: 48px;
 }
 
 .portfolio-border {
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
-  row-gap: 48px;
   padding: 32px 16px;
 }
 
